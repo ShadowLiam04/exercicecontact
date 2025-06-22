@@ -17,6 +17,6 @@ public class ContactsManager {
                 return contact;
             }
         }
-        return null; // Contact not found
+        return null;
     }
 }
